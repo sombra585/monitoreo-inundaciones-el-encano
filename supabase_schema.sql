@@ -1,0 +1,4 @@
+-- Esquema legado, conservado como referencia de compatibilidad.
+-- No ejecutar: utilizaba las tablas mediciones/alertas y los umbrales de 14 cm.
+-- El esquema vigente se encuentra en:
+-- supabase/migrations/20261125000100_el_encano_platform.sql

@@ -1,0 +1,17 @@
+[functions.ingest-reading]
+verify_jwt = false
+
+[functions.ingest-measurement]
+verify_jwt = false
+
+[functions.get-device-config]
+verify_jwt = false
+
+[functions.provision-device]
+verify_jwt = false
+
+[functions.invite-engineer]
+verify_jwt = false
+
+[functions.admin-list-users]
+verify_jwt = false
